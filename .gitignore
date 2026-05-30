@@ -1,0 +1,8 @@
+legal-assistant/.venv/
+legal-assistant/logs/
+legal-assistant/vector_db/*
+!legal-assistant/vector_db/.gitkeep
+
+__pycache__/
+*.py[cod]
+.env
