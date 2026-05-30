@@ -1,0 +1,9 @@
+.venv/
+logs/
+vector_db/*
+!vector_db/.gitkeep
+__pycache__/
+*.py[cod]
+.env
+.git/
+.gitignore
